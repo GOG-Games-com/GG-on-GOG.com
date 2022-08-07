@@ -3,3 +3,4 @@
 ## How to use
 
 ## Credits
+- GOG Integrator
