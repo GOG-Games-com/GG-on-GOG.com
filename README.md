@@ -1,6 +1,8 @@
 # GG on GOG.com
 
-## How to use
+## Usage
+
+## Issues
 
 ## Credits
 - GOG Integrator
