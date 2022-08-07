@@ -1,1 +1,5 @@
-# GG-on-GOG
+# GG on GOG
+
+## How to use
+
+## Credits
