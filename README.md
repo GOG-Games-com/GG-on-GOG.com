@@ -12,3 +12,4 @@ Store page URLs and the name of folder slugs for games when you download them di
 
 ## Credits
 - GOG Integrator
+- Yepoleb
