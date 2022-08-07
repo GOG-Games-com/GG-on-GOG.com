@@ -1,4 +1,4 @@
-# GG on GOG
+# GG on GOG.com
 
 ## How to use
 
